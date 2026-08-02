@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-led4sv.radarsatu88.shop/sitemap.xml
